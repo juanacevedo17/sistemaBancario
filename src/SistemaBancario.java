@@ -12,7 +12,7 @@ public class SistemaBancario {
         // Crear diferentes tipos de cuentas
         cuentas.add(new CuentaCorriente("Juan Pérez", 5000.0, "CC-001"));
         cuentas.add(new CuentaAhorros("María García", 10000.0, "CA-001"));
-        cuentas.add(new CuentaEmpresarial("Empresa XYZ", 50000.0, "CE-001"));
+        cuentas.add(new CuentaEmpresarial("nike", 50000.0, "CE-001"));
         
         System.out.println("=== SISTEMA BANCARIO ===");
         System.out.println("Cuentas creadas:");
